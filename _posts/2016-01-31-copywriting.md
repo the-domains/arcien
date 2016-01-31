@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:18:33.827Z'
+datePublished: '2016-01-31T22:18:33.863Z'
 dateModified: '2016-01-31T22:18:29.749Z'
 title: Content marketing
 author: []
