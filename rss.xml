@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Arcien]]></title>
-        <description><![CDATA[Arcien]]></description>
+        <title><![CDATA[Digital Marketing for Charities ]]></title>
+        <description><![CDATA[Digital Marketing for Charities ]]></description>
         <link>https://thegrid.ai/arcien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 22:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 22:07:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arcien/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Copywriting]]></title>
-            <description><![CDATA[<article><h1>Copywriting</h1><p>You may think this is starting off with the basics. You'd be wrong. </p></article>]]></description>
+            <description><![CDATA[<article><h1>Copywriting</h1><h2>Keeping it simple</h2><p>You may think this is starting off with the basics. You'd be wrong. </p></article>]]></description>
             <link>https://thegrid.ai/arcien/copywriting/index.html</link>
             <guid isPermaLink="false">a152298b-f363-4975-8213-f5d7776feb04</guid>
             <pubDate>Sun, 31 Jan 2016 22:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First things first....]]></title>
-            <description><![CDATA[<article><h1>First things first....</h1><p>This isn't for you.</p></article>]]></description>
-            <link>https://thegrid.ai/arcien/first-things-first/index.html</link>
-            <guid isPermaLink="false">95935c24-4ca7-46f3-bfa1-aaa59e58704e</guid>
-            <pubDate>Thu, 28 Jan 2016 21:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
