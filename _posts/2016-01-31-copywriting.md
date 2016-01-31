@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:01:33.121Z'
-dateModified: '2016-01-31T22:01:17.235Z'
-title: Copywriting
+datePublished: '2016-01-31T22:18:33.686Z'
+dateModified: '2016-01-31T22:18:29.749Z'
+title: Content marketing
 author: []
+sourcePath: _posts/2016-01-31-copywriting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-copywriting.md
-published: true
 url: copywriting/index.html
 _type: Article
 
 ---
-# Copywriting
+# Content marketing
 
 ## Keeping it simple
 
